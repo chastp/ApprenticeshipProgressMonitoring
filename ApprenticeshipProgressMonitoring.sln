@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ApprenticeshipProgressMonitoring", ".", "{258A592F-05DB-42E0-8B04-A45E85B8DC9A}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_4478"
+		Debug.AspNetCompiler.PhysicalPath = "..\ApprenticeshipProgressMonitoring\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_4478\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_4478"
+		Release.AspNetCompiler.PhysicalPath = "..\ApprenticeshipProgressMonitoring\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_4478\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "4478"
+		SlnRelativePath = "..\ApprenticeshipProgressMonitoring\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Live|Any CPU = Live|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{258A592F-05DB-42E0-8B04-A45E85B8DC9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{258A592F-05DB-42E0-8B04-A45E85B8DC9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{258A592F-05DB-42E0-8B04-A45E85B8DC9A}.Live|Any CPU.ActiveCfg = Debug|Any CPU
+		{258A592F-05DB-42E0-8B04-A45E85B8DC9A}.Live|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10C34646-D7A0-4C5F-A6F3-DE3DA76C1B58}
+	EndGlobalSection
+EndGlobal

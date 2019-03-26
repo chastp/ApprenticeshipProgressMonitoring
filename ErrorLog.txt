@@ -1,0 +1,15 @@
+********** 30/01/2018 14:34:07 **********
+Exception Type: System.Web.HttpException
+Exception: defaultRedirect
+Source: Caught in DefaultRedirectErrorPage
+Stack Trace: 
+********** 30/01/2018 16:56:05 **********
+Exception Type: System.Web.HttpException
+Exception: defaultRedirect
+Source: Caught in DefaultRedirectErrorPage
+Stack Trace: 
+********** 15/02/2018 11:41:40 **********
+Exception Type: System.Web.HttpException
+Exception: defaultRedirect
+Source: Caught in DefaultRedirectErrorPage
+Stack Trace: 
